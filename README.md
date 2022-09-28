@@ -1,3 +1,5 @@
+version: 2022 / 09 / 28 
+
 # 42 School Cheat Sheet by [agavrel](https://www.github.com/agavrel)
 
 ## :two_hearts: Intended for 42 alumni, current students and candidates
